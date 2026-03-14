@@ -1,4 +1,259 @@
 {
-  "generatedAt": "2026-03-14T01:16:57.372Z",
-  "builds": []
+  "generatedAt": "2026-03-14T01:19:04.551Z",
+  "builds": [
+    {
+      "id": "14e228d8-71e8-4ebe-b373-30d933a41943",
+      "title": "Luminary - Support Lumi",
+      "profession": "Guardian",
+      "updatedAt": "2026-03-14T01:12:38.012Z",
+      "createdAt": "2026-03-14T01:07:52.948Z",
+      "notes": "",
+      "tags": [],
+      "equipment": {
+        "statPackage": "",
+        "runeSet": "",
+        "relic": "Relic of the Flock",
+        "food": "Bowl of Fruit Salad with Mint Garnish",
+        "utility": "Bountiful Maintenance Oil"
+      },
+      "specializations": [
+        {
+          "id": 49,
+          "name": "Honor",
+          "icon": "https://render.guildwars2.com/file/A4C0E39152B005EE226DA56D010DEEABB1ADBF2B/1011995.png",
+          "background": "https://render.guildwars2.com/file/98C3AB64254E61E59D03D3AF29D75314730E9E72/1012046.png",
+          "majorChoices": {
+            "1": 654,
+            "2": 557,
+            "3": 558
+          },
+          "majorTraitsByTier": {
+            "1": [
+              {
+                "id": 1899,
+                "name": "Invigorated Bulwark",
+                "icon": "https://render.guildwars2.com/file/504B1F9EF89652FD5A00D52DE52A52B7023043E9/1012402.png"
+              },
+              {
+                "id": 559,
+                "name": "Protective Reviver",
+                "icon": "https://render.guildwars2.com/file/5F23B231E1039C4DC401BA2D6AE473C0E1E06D7E/1012403.png"
+              },
+              {
+                "id": 654,
+                "name": "Protector's Restoration",
+                "icon": "https://render.guildwars2.com/file/DB1111AB10B1D3FAA67EF4957A0167BB1E61C90C/1012404.png"
+              }
+            ],
+            "2": [
+              {
+                "id": 557,
+                "name": "Honorable Staff",
+                "icon": "https://render.guildwars2.com/file/4B04DDA13B459179E500052B03B39579093BAD18/1012405.png"
+              },
+              {
+                "id": 549,
+                "name": "Pure of Heart",
+                "icon": "https://render.guildwars2.com/file/B8FD6EB1B2C6CF7CEFE4715994B6FBCC201FF24D/1012406.png"
+              },
+              {
+                "id": 562,
+                "name": "Empowering Might",
+                "icon": "https://render.guildwars2.com/file/F8467ACFF89AFDE01C5E9F706A7341A3D2C9597C/1012407.png"
+              }
+            ],
+            "3": [
+              {
+                "id": 553,
+                "name": "Pure of Voice",
+                "icon": "https://render.guildwars2.com/file/6ED99443C2E00AEBCF52F974221B0B31A0CCB457/1012408.png"
+              },
+              {
+                "id": 558,
+                "name": "Writ of Persistence",
+                "icon": "https://render.guildwars2.com/file/663CB2609609A546744620D72EBD7ECEC9020FA6/1012409.png"
+              },
+              {
+                "id": 1682,
+                "name": "Force of Will",
+                "icon": "https://render.guildwars2.com/file/AA9EDC9B5B343F27372ADDBA320702D3A19CD7D5/1012410.png"
+              }
+            ]
+          }
+        },
+        {
+          "id": 46,
+          "name": "Virtues",
+          "icon": "https://render.guildwars2.com/file/E165042F92999B3BEFA91E280CB807F62EF30218/1011998.png",
+          "background": "https://render.guildwars2.com/file/08FE79184543F8314648D3104268789B484AB0BF/1012049.png",
+          "majorChoices": {
+            "1": 617,
+            "2": 610,
+            "3": 612
+          },
+          "majorTraitsByTier": {
+            "1": [
+              {
+                "id": 624,
+                "name": "Unscathed Contender",
+                "icon": "https://render.guildwars2.com/file/0FF7C102A0F70E6398712C12A62B427A2B6DC05F/1012438.png"
+              },
+              {
+                "id": 625,
+                "name": "Resolute Subconscious",
+                "icon": "https://render.guildwars2.com/file/BB3C57FD1467961118ACB5FDE84F39D965C9670B/1012439.png"
+              },
+              {
+                "id": 617,
+                "name": "Master of Consecrations",
+                "icon": "https://render.guildwars2.com/file/FA5B6B9E701C3F2BEAD6E053A4E8681B4878AFC4/1012440.png"
+              }
+            ],
+            "2": [
+              {
+                "id": 603,
+                "name": "Inspiring Virtue",
+                "icon": "https://render.guildwars2.com/file/3EC057E1739EF1F22815605956B46142D2669A6D/1466322.png"
+              },
+              {
+                "id": 610,
+                "name": "Absolute Resolve",
+                "icon": "https://render.guildwars2.com/file/FD1ED24CEFFABCD52D22CC1F955094E80C0C3C9B/1012442.png"
+              },
+              {
+                "id": 587,
+                "name": "Glacial Heart",
+                "icon": "https://render.guildwars2.com/file/B6B838104E585313E2FA34481FEDBD9F1B6F07B4/1012443.png"
+              }
+            ],
+            "3": [
+              {
+                "id": 622,
+                "name": "Permeating Wrath",
+                "icon": "https://render.guildwars2.com/file/6A76F53CD306D8E65E3774D7F09FF54326D348B5/1012444.png"
+              },
+              {
+                "id": 554,
+                "name": "Battle Presence",
+                "icon": "https://render.guildwars2.com/file/33B6DF1FB0AB7C497E3C5467EA22C8ABFFC83D17/1012445.png"
+              },
+              {
+                "id": 612,
+                "name": "Indomitable Courage",
+                "icon": "https://render.guildwars2.com/file/2602F16A45D30AECA8D3F11AB1A1FEDADBFD1120/1012446.png"
+              }
+            ]
+          }
+        },
+        {
+          "id": 81,
+          "name": "Luminary",
+          "icon": "https://render.guildwars2.com/file/034C203DBD60CFF19D3D5CE9E71B27CA0103F50D/3679898.png",
+          "background": "https://render.guildwars2.com/file/AF9E19ADE842E1661324EDC6AAAEF7B2933CF132/3679907.png",
+          "majorChoices": {
+            "1": 2410,
+            "2": 2401,
+            "3": 2368
+          },
+          "majorTraitsByTier": {
+            "1": [
+              {
+                "id": 2410,
+                "name": "Shimmering Stances",
+                "icon": "https://render.guildwars2.com/file/0BBF59B654A528C492CA26463B2728DD590EE016/3679955.png"
+              },
+              {
+                "id": 2417,
+                "name": "Resolute Blessing",
+                "icon": "https://render.guildwars2.com/file/3580BB0C4F3E9BBC96080454BE9491CC934A6C55/3679956.png"
+              },
+              {
+                "id": 2329,
+                "name": "Persistent Blessing",
+                "icon": "https://render.guildwars2.com/file/CA0853B1409CF197E0082626E5EDE57BE758CF40/3679957.png"
+              }
+            ],
+            "2": [
+              {
+                "id": 2330,
+                "name": "Resplendent Weaponry",
+                "icon": "https://render.guildwars2.com/file/5176E7FBE301F9DF01C54A79BCFD02F6C3029BED/3679958.png"
+              },
+              {
+                "id": 2401,
+                "name": "Purging Light",
+                "icon": "https://render.guildwars2.com/file/0F9AC6B095FF6924D01F07FF26BF0F5C0DADD824/3679959.png"
+              },
+              {
+                "id": 2419,
+                "name": "Empowered Armaments",
+                "icon": "https://render.guildwars2.com/file/37424E9DD0A3ADC61DD56BB180C96201DB61099C/3679960.png"
+              }
+            ],
+            "3": [
+              {
+                "id": 2368,
+                "name": "Illuminating Inspiration",
+                "icon": "https://render.guildwars2.com/file/DDFE760CBC42D4B2EC0645099C161AC850E41EA7/3679961.png"
+              },
+              {
+                "id": 2328,
+                "name": "Sovereign of Light",
+                "icon": "https://render.guildwars2.com/file/111A0EA54101D7C22F57070690139662D0BC5316/3679962.png"
+              },
+              {
+                "id": 2388,
+                "name": "Master-at-Arms",
+                "icon": "https://render.guildwars2.com/file/B4094AF403DC0753F496E97F014A0FB02FB1D209/3679963.png"
+              }
+            ]
+          }
+        }
+      ],
+      "skills": {
+        "heal": {
+          "id": 9083,
+          "name": "\"Receive the Light!\"",
+          "icon": "https://render.guildwars2.com/file/98FF447227E81AB44D9298F0E3BD62D553972B54/103089.png",
+          "description": "Shout. Heal yourself and allies in a cone in front of you.",
+          "type": "Heal",
+          "slot": "Heal"
+        },
+        "utility": [
+          {
+            "id": 9084,
+            "name": "\"Advance!\"",
+            "icon": "https://render.guildwars2.com/file/4EB81AB80FA319D32A1A11566EA10639A14AC708/103635.png",
+            "description": "Shout. Grant aegis and swiftness to up to five nearby allies.",
+            "type": "Utility",
+            "slot": "Utility"
+          },
+          {
+            "id": 9152,
+            "name": "\"Hold the Line!\"",
+            "icon": "https://render.guildwars2.com/file/CA143E59076FDECC06DF0F209836104F359977E0/103663.png",
+            "description": "Shout. Grant protection and regeneration to allies.",
+            "type": "Utility",
+            "slot": "Utility"
+          },
+          {
+            "id": 9085,
+            "name": "\"Save Yourselves!\"",
+            "icon": "https://render.guildwars2.com/file/BAB6060F7605D6F00901D22508E1B7A33D0A5DF7/103659.png",
+            "description": "Shout. Draw conditions from nearby allies to yourself. Gain multiple boons for a short duration.",
+            "type": "Utility",
+            "slot": "Utility"
+          }
+        ],
+        "elite": {
+          "id": 29965,
+          "name": "\"Feel My Wrath!\"",
+          "icon": "https://render.guildwars2.com/file/B743B8DDF91DBC0239460877775FBE7BD36F6873/103702.png",
+          "description": "Shout. Grant fury and quickness to nearby allies. The duration of the quickness you grant yourself is doubled.",
+          "type": "Elite",
+          "slot": "Elite"
+        }
+      }
+    }
+  ]
 }
